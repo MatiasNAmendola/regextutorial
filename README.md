@@ -17,9 +17,9 @@ Regex Tutorial
 	\s matches any character, including line breaks. It's a flag for the . operator; <br/>
 	\z matches the end of the string (doesn't read the new lines); <br/>
 	/i matches insive characters (ABC = abc); <br/>
-	\d - Matches any numeric character - same as [0-9]; <br/>
-	\D - Matches any non-numeric character - same as [^0-9]; <br/>
-	\s - Matches any whitespace character - sames as [\t\n\r\f\v]; <br/>
-	\S - Matches any non-whitespace character - same as [^ \t\n\r\f\v]; <br/>
-	\w - Matches any alphanumeric character - same as [a-zA-Z0-9_]; <br/>
-	\W - Matches any non-alphanumeric character - same as [^a-zA-Z0-9_]; <br/>
+	\d matches any numeric character - same as [0-9]; <br/>
+	\D matches any non-numeric character - same as [^0-9]; <br/>
+	\s matches any whitespace character - sames as [\t\n\r\f\v]; <br/>
+	\S matches any non-whitespace character - same as [^ \t\n\r\f\v]; <br/>
+	\w matches any alphanumeric character - same as [a-zA-Z0-9_]; <br/>
+	\W matches any non-alphanumeric character - same as [^a-zA-Z0-9_]; <br/>
