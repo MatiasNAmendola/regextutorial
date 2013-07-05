@@ -1,6 +1,8 @@
 regextutorial
 =============
 
+This is a simple tutorial for those who wanna learn regular expressions and extend that knowledge to the PHP language.
+
 Regular Meta Characters used in REGEX
 ----------------------
 
